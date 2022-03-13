@@ -1,0 +1,14 @@
+html {
+    font-size: 2em;
+    text-align: center;
+}
+
+body {
+    display: grid;
+    gap: 1em;
+    border: 5px solid red;
+}
+
+.spoilerHeader {
+    height: auto;
+}
