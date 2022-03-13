@@ -1,3 +1,3 @@
-$(".spoilerHeader").on(function showSpoiler(){
-    ("p.noSpoilerShown").append("Some appended text.");
-}
+$(".spoilerHeader").on("click", function showSpoiler(){
+    ("p.noSpoilerShown").append("Убийца - дворецкий!");
+})
