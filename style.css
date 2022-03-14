@@ -12,3 +12,11 @@ body {
 .spoilerHeader {
     height: auto;
 }
+
+.hiddenSpoilerHeader_text-shown {
+    display: inline;
+}
+
+.hiddenSpoilerHeader_text-hidden {
+    display: none;
+}
